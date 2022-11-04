@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 6461d58343b27cd43b9241c0c5c3637a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -4516829719847259829
+    second: Cube_Tree_stem|Box001|Take 001|BaseLayer
+  - first:
+      74: 4838250069270535022
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer
+  - first:
+      74: 8816797278242164293
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 3001612846685624125
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 1837174357176964892
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -5925775124035239949
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -4120369701615266357
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -4488846810191883325
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -5972848654783329767
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 115810215487322537
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -599963518281570415
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -3730957103289785210
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -8501678511603016989
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -5522786816435865983
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -5663203107225289648
+    second: Cube_Tree_stem|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -4740720842885103596
+    second: Cube_Tree_stem|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -462978486743259930
+    second: Box002.011|Box001|Take 001|BaseLayer
+  - first:
+      74: -2536518020634440903
+    second: Box002.011|Box002|Take 001|BaseLayer
+  - first:
+      74: 7610854001414626813
+    second: Box002.011|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -792657539370057842
+    second: Box002.011|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -3459998351678576623
+    second: Box002.011|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -3523200658151963563
+    second: Box002.011|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 2584566081015480814
+    second: Box002.011|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 4212091946702468258
+    second: Box002.011|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -875749626100214309
+    second: Box002.011|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -3041423723204182751
+    second: Box002.011|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -2299979502129321021
+    second: Box002.011|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 202142995344061520
+    second: Box002.011|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -2397795630897627624
+    second: Box002.011|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 9018220958051579502
+    second: Box002.011|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -7137459873389046542
+    second: Box002.011|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -5117357305574685447
+    second: Box002.011|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8515301962221507069
+    second: Box002.013|Box001|Take 001|BaseLayer
+  - first:
+      74: 3839892961390316695
+    second: Box002.013|Box002|Take 001|BaseLayer
+  - first:
+      74: 8951774537615285506
+    second: Box002.013|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -1580587314952566310
+    second: Box002.013|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -2635477021873324529
+    second: Box002.013|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 5897060186756215336
+    second: Box002.013|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 3609467672892555859
+    second: Box002.013|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -2965373841410411229
+    second: Box002.013|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 7565813292992610088
+    second: Box002.013|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 4355975792475821169
+    second: Box002.013|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -6811608279842401878
+    second: Box002.013|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 2852071856815608054
+    second: Box002.013|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 3420312642289260717
+    second: Box002.013|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 5938038460796344922
+    second: Box002.013|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -2294782968993474448
+    second: Box002.013|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 8254912707909295068
+    second: Box002.013|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 3786673489935487119
+    second: Tree_leaf|Box001|Take 001|BaseLayer
+  - first:
+      74: -455770948748132110
+    second: Tree_leaf|Box002|Take 001|BaseLayer
+  - first:
+      74: -6720166978002136921
+    second: Tree_leaf|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -2373434624477430463
+    second: Tree_leaf|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -1177021576925433608
+    second: Tree_leaf|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -9156236856643373912
+    second: Tree_leaf|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -4449090220434081276
+    second: Tree_leaf|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -8816498945069299756
+    second: Tree_leaf|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 8428627934195378290
+    second: Tree_leaf|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 7142493672526889081
+    second: Tree_leaf|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -5482600361661602664
+    second: Tree_leaf|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -5136581781772094482
+    second: Tree_leaf|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -8359804167579734323
+    second: Tree_leaf|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 7281354918224006355
+    second: Tree_leaf|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -7118323485903508303
+    second: Tree_leaf|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 4212072134336458923
+    second: Tree_leaf|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 4083002997041898782
+    second: Cube_Tree_stem.001|Box001|Take 001|BaseLayer
+  - first:
+      74: -6699930616100518431
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer
+  - first:
+      74: 7163600949097423
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -3053407128140562099
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 7387879744458489945
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -8344315287491710820
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 7532720866323214330
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -2905937549554539967
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -2268270531516902965
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -6547281482322081914
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -8598931739275455506
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -666205994487065352
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -4625672876580833730
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -1307043524078391578
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 2658243759336207317
+    second: Cube_Tree_stem.001|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -7008763916664853167
+    second: Cube_Tree_stem.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -1019593434981469677
+    second: Cube_Tree_stem.002|Box001|Take 001|BaseLayer
+  - first:
+      74: -6561955738427925459
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer
+  - first:
+      74: 3290050396609909078
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -8936658856540343593
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -7642845299959373764
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 7822038330808836227
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 1410638284589984202
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 1999713677527608376
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 3402259853698388043
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -2019922333528233099
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -5619574673264778787
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 49939152304335353
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -1383010426451820704
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 3822537858802948391
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 6976425545743222075
+    second: Cube_Tree_stem.002|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 8439006982065642363
+    second: Cube_Tree_stem.002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -833777143316311211
+    second: Cube_Tree_stem.003|Box001|Take 001|BaseLayer
+  - first:
+      74: -4469303931134052373
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer
+  - first:
+      74: 5150491329299779118
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -7257127768115946236
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 6024610348739012266
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -3494016321696616607
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 3083885956637127322
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -1245364949275956065
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -5891052021472786129
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 2479845186730296918
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -2049998006952120951
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -7862027208940981142
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -4267721803634530588
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -2170151565212096923
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 5849812627347734719
+    second: Cube_Tree_stem.003|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -1851615197755012327
+    second: Cube_Tree_stem.003|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -2885654414411659454
+    second: Tree_leaf.001|Box001|Take 001|BaseLayer
+  - first:
+      74: -7857070712144750871
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer
+  - first:
+      74: 8445007509530216607
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 8809493509299802219
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 1221673550827894758
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -1005012205393447763
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 449011863089277542
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 6145461610127405709
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -8416127188269938032
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -5460578668131682532
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.008
+  - first:
+      74: 7333952664780132839
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -2321901763092330540
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -8443870861282150544
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -4720683158302289922
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 7316714708219981988
+    second: Tree_leaf.001|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 1722066110559392241
+    second: Tree_leaf.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 2269914371124131632
+    second: Tree_leaf.002|Box001|Take 001|BaseLayer
+  - first:
+      74: -792546983523660597
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer
+  - first:
+      74: -9011502027061096803
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 7329482160274206670
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 6568090416521652632
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 683642629739153416
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 2729656361295000516
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 5708742426916569012
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 498482296599301203
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -7225392912129320779
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -5045170158707517511
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -7647322683396682467
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -6294669336838629974
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -6635655814920108663
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 2423619992708577324
+    second: Tree_leaf.002|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 8385970417138723391
+    second: Tree_leaf.002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 2376269923029576148
+    second: Tree_leaf.003|Box001|Take 001|BaseLayer
+  - first:
+      74: -9040821029826604195
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer
+  - first:
+      74: 7396855663654752265
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -4445485071838293658
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 8010603034030315347
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 8975680294884981047
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 5146093194127466806
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -3403236756074523726
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -8599535068601699056
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 3809357290603961475
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -3729102766647744656
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 3492106859705458851
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -8767186306695245157
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 1034145668350204706
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -7842891426131447311
+    second: Tree_leaf.003|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -4640741450202652173
+    second: Tree_leaf.003|Cylinder001|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
