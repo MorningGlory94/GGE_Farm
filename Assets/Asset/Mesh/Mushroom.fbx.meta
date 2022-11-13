@@ -1,0 +1,1695 @@
+fileFormatVersion: 2
+guid: 80aebf338f303e14ebd507404ff5ee85
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3913576704628704051
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box001|Take 001|BaseLayer
+  - first:
+      74: -6878224102178808044
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -3718358921510261687
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -5091262304551191324
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer
+  - first:
+      74: -7982329492512763219
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.001
+  - first:
+      74: -7873058705786148260
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 8836716473030030367
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 1191824153772977028
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 4472097765116357644
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 6692432681764125111
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 786139536190960539
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -1645793773986610245
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.008
+  - first:
+      74: 8792854621597092154
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -3890498304680171143
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 6041401801182902012
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 5414554865757489992
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 2121593994186514236
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 6549293622438304749
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.014
+  - first:
+      74: -1966949579173254429
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.015
+  - first:
+      74: 5321613070833937464
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.016
+  - first:
+      74: -2865006914690790280
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.017
+  - first:
+      74: 5968147256904007234
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.018
+  - first:
+      74: 6589320702914212889
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -7748599690624089140
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.020
+  - first:
+      74: 4147798565919085097
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.021
+  - first:
+      74: 8205366641703737431
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.022
+  - first:
+      74: -2304197392693847632
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 4332821568383230045
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.024
+  - first:
+      74: -245866392697607481
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.025
+  - first:
+      74: 901168824760570923
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.026
+  - first:
+      74: -1313162011080977719
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -4622081641390488805
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.028
+  - first:
+      74: 3633094093073998704
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.029
+  - first:
+      74: -462297846309844096
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.030
+  - first:
+      74: -6114729531636515653
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.031
+  - first:
+      74: -4148378839857481640
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 6157358211706144068
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.033
+  - first:
+      74: -4818519675181480216
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.034
+  - first:
+      74: -624908818031125648
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.035
+  - first:
+      74: -3887388859510416128
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.036
+  - first:
+      74: -4540027420357897152
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.037
+  - first:
+      74: -3915165893960367689
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.038
+  - first:
+      74: 6340725877005642080
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 283497882312446278
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.040
+  - first:
+      74: -3322129411167818927
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Box002|Take 001|BaseLayer.041
+  - first:
+      74: -6869677191435465807
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 2945464697178271709
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -8276191662091340182
+    second: Cube_Tree_stem.004|Box002.011|Box002.011|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 6154210995419644824
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box001|Take 001|BaseLayer
+  - first:
+      74: -3543381692532329012
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box001|Take 001|BaseLayer.001
+  - first:
+      74: -4679515233287194889
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -6397626494644024646
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer
+  - first:
+      74: 8811687088480996033
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 3858852798953879110
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 5114473857350299468
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -9171897079130712199
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -6479776980844649094
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 2973019614403451282
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 3569662809527732817
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -4033335292238670333
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -9031302957159404151
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -6042293757857684825
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -4953698439940503849
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 2571627224699119959
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 7757663819369761390
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -6512475963259124501
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.014
+  - first:
+      74: 3783519794346986834
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.015
+  - first:
+      74: 501295056484149988
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.016
+  - first:
+      74: -2529377027606494301
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.017
+  - first:
+      74: -8525778704365264749
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.018
+  - first:
+      74: 9199642437980509381
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -8510082098941794666
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.020
+  - first:
+      74: 469731076882852991
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.021
+  - first:
+      74: -1363048122328004476
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.022
+  - first:
+      74: -988454115358058499
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 7734756126471586107
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 7624750135746641099
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.025
+  - first:
+      74: 7983060024310064645
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.026
+  - first:
+      74: 440938643403333372
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -2313799599608142587
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.028
+  - first:
+      74: -3912242171664677185
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.029
+  - first:
+      74: -2126524236142489179
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.030
+  - first:
+      74: 8418191161668539460
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.031
+  - first:
+      74: 2474795086142318403
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 2658575076912897482
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.033
+  - first:
+      74: -8852132460855393640
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.034
+  - first:
+      74: -3932145952836044372
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.035
+  - first:
+      74: -5450221079537640154
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.036
+  - first:
+      74: -7227056373326898947
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.037
+  - first:
+      74: 8647740803778042569
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.038
+  - first:
+      74: -7607549139655921741
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 5134361343802145259
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.040
+  - first:
+      74: 8746566836794316096
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Box002|Take 001|BaseLayer.041
+  - first:
+      74: 9192862942016655674
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 4405042603341900748
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -3614534309027266551
+    second: Cube_Tree_stem.004|Box002.013|Box002.013|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: -7228954047646381298
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box001|Take
+      001|BaseL.004
+  - first:
+      74: -6230033947659049608
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box001|Take
+      001|BaseLayer
+  - first:
+      74: -7850391914558632627
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL
+  - first:
+      74: 3244307007674715203
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.001
+  - first:
+      74: -667419230948842432
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 5422519151608911340
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -1676817297441427242
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.004
+  - first:
+      74: -6812952020903214749
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.005
+  - first:
+      74: -2974026411690262001
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.006
+  - first:
+      74: 94173586354458013
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 5306561325773399826
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -180082153040134961
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 6292665051203318904
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.010
+  - first:
+      74: 3781438686683575788
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 4923852123020315944
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.012
+  - first:
+      74: 356188015770354861
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Box002|Take
+      001|BaseLayer
+  - first:
+      74: -6138620025795472351
+    second: Cube_Tree_stem.004|Cube_Tree_stem.001|Cube_Tree_stem.001|Cylinder001|Take
+      001|Base
+  - first:
+      74: -4508361286527774215
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box001|Take
+      001|BaseLayer
+  - first:
+      74: -5785502755233554656
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL
+  - first:
+      74: 4755662741596044039
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.001
+  - first:
+      74: -2006543839940185741
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 1841507569419650360
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.003
+  - first:
+      74: 1140984369073558241
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.004
+  - first:
+      74: 1512283197923061644
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.005
+  - first:
+      74: -5558713152879445009
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.006
+  - first:
+      74: 1243276145818420258
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 2977138123530637241
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.008
+  - first:
+      74: 7941586157258980371
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.009
+  - first:
+      74: -2672668519678053154
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.010
+  - first:
+      74: 6653528624131930007
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 3105148265743820028
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -6926108823301389642
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Box002|Take
+      001|BaseLayer
+  - first:
+      74: -6373142343578933859
+    second: Cube_Tree_stem.004|Cube_Tree_stem.002|Cube_Tree_stem.002|Cylinder001|Take
+      001|Base
+  - first:
+      74: 5884305591461114921
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box001|Take
+      001|BaseLayer
+  - first:
+      74: 8747756341962729087
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL
+  - first:
+      74: -4831397218400090519
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.001
+  - first:
+      74: 260529353884503303
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.002
+  - first:
+      74: -2498574076670238356
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -1892713068636775420
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.004
+  - first:
+      74: 8224945840193673416
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.005
+  - first:
+      74: 5969466131172782386
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.006
+  - first:
+      74: 8717968975181757742
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 8473099682073270449
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -2878676666471125234
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.009
+  - first:
+      74: -5181641412966474252
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -4030502149722267288
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 8525791554649913258
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.012
+  - first:
+      74: 2514611772897714739
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Box002|Take
+      001|BaseLayer
+  - first:
+      74: -385882737923248833
+    second: Cube_Tree_stem.004|Cube_Tree_stem.003|Cube_Tree_stem.003|Cylinder001|Take
+      001|Base
+  - first:
+      74: -3077735269839313963
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box001|Take
+      001|BaseLayer
+  - first:
+      74: -2188694138891957483
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL
+  - first:
+      74: 3438274587513934616
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.001
+  - first:
+      74: -8398086010293432327
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 8129319806918975143
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.003
+  - first:
+      74: 1356969619772114569
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.004
+  - first:
+      74: -1173599466553830797
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.005
+  - first:
+      74: 1511541747896920960
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.006
+  - first:
+      74: -7922380782286692471
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.007
+  - first:
+      74: -7575251139405421118
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -2693929419970636154
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 5368826406257417199
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -4513959575197305212
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.011
+  - first:
+      74: -3068741409848844251
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -5791785405256545082
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Box002|Take
+      001|BaseLayer
+  - first:
+      74: 8711962015936488671
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem.001|Cylinder001|Take
+      001|Base
+  - first:
+      74: 7472035990779190901
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box001|Take 001|BaseLayer
+  - first:
+      74: -2790187950015242204
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer
+  - first:
+      74: 935914040256269254
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 866682655592566217
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -1783157300709036084
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 5383166932158266860
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -8125715661373334039
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -2026996575577644222
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -7352094874310080611
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 604153038259194312
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.008
+  - first:
+      74: 8269111272077475768
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -4919118296263321671
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -4219859085320277656
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 5925404816897167926
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -1371515693298895064
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -6592619268331906480
+    second: Cube_Tree_stem.004|Cube_Tree_stem.010|Cube_Tree_stem|Cylinder001|Take
+      001|BaseLaye
+  - first:
+      74: 1607175351171619027
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box001|Take
+      001|BaseLayer
+  - first:
+      74: 4021114423161760579
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL
+  - first:
+      74: 642504882035269779
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.001
+  - first:
+      74: -2020043814233640642
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.002
+  - first:
+      74: -8670955113190051654
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.003
+  - first:
+      74: 7117402632771959241
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.004
+  - first:
+      74: 6006153384941572023
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.005
+  - first:
+      74: -7850719706474893811
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.006
+  - first:
+      74: -933325408847784313
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 68392857373827801
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.008
+  - first:
+      74: 5442831043875186205
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 1438951227609267284
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -2637697962471120382
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.011
+  - first:
+      74: -4669902043135484513
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -6825995174165135317
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Box002|Take
+      001|BaseLayer
+  - first:
+      74: 3917353865815376116
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.001|Cylinder001|Take
+      001|Base
+  - first:
+      74: -4207216745558516213
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box001|Take
+      001|BaseLayer
+  - first:
+      74: 5827668565734615502
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL
+  - first:
+      74: -7585559041790584370
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.001
+  - first:
+      74: -2233320015745271035
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 625958655129817085
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -2928544617352678017
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.004
+  - first:
+      74: 3613366025457187848
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.005
+  - first:
+      74: -4526379797966015963
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.006
+  - first:
+      74: -2332110729440065686
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.007
+  - first:
+      74: -1834347631768876036
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -1647547849728891785
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.009
+  - first:
+      74: -6387744928671967578
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.010
+  - first:
+      74: 7451971158878211284
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 5141464347965662786
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -7247883576950380341
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Box002|Take
+      001|BaseLayer
+  - first:
+      74: 1477413596853199007
+    second: Cube_Tree_stem.004|Cube_Tree_stem.011|Cube_Tree_stem.002|Cylinder001|Take
+      001|Base
+  - first:
+      74: -1121207321069471155
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box001|Take
+      001|BaseLayer
+  - first:
+      74: 3007372322886296847
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL
+  - first:
+      74: 4615654259870278835
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.001
+  - first:
+      74: 7594474363526429006
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 3303997602671515264
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -7441605651788128049
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.004
+  - first:
+      74: -679277382436478937
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.005
+  - first:
+      74: 9184280599730927589
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.006
+  - first:
+      74: 3770525388332830899
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.007
+  - first:
+      74: -3097953722935919207
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -59481817301528957
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 4908476774097708893
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -4833485969510813638
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.011
+  - first:
+      74: -5393969923400189358
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -7421806695664298692
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Box002|Take
+      001|BaseLayer
+  - first:
+      74: -7621352200840596763
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.002|Cylinder001|Take
+      001|Base
+  - first:
+      74: -3968048513449091194
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box001|Take
+      001|BaseLayer
+  - first:
+      74: -2947542169914264030
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL
+  - first:
+      74: -4450073199994565212
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.001
+  - first:
+      74: 3537546231443893188
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.002
+  - first:
+      74: -8549937203028417251
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -353975758713770615
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.004
+  - first:
+      74: -6290458913360979530
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.005
+  - first:
+      74: 9209837821577175543
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.006
+  - first:
+      74: -2118947032196349833
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 2070108242279920661
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.008
+  - first:
+      74: -4512416181980446739
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 3753414781971247192
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -4088607187355838763
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 3970333745151377278
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.012
+  - first:
+      74: -2126108011490861753
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Box002|Take
+      001|BaseLayer
+  - first:
+      74: 8738422716572897963
+    second: Cube_Tree_stem.004|Cube_Tree_stem.012|Cube_Tree_stem.003|Cylinder001|Take
+      001|Base
+  - first:
+      74: 1534970635913018805
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box001|Take
+      001|BaseLayer
+  - first:
+      74: 4338749571160108508
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL
+  - first:
+      74: -6330120048452180531
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.001
+  - first:
+      74: 6835934380088465782
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.002
+  - first:
+      74: 7192925404186892129
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.003
+  - first:
+      74: -5087525413897867601
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.004
+  - first:
+      74: 1702152232398883180
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.005
+  - first:
+      74: 7838506758333218454
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.006
+  - first:
+      74: -8785138921933298546
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.007
+  - first:
+      74: 8271816945409899281
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.008
+  - first:
+      74: 2678398616345553696
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.009
+  - first:
+      74: 5513609650321619410
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.010
+  - first:
+      74: -9019247851095577614
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.011
+  - first:
+      74: 2855452901623592
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseL.012
+  - first:
+      74: 1748158599490445979
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Box002|Take
+      001|BaseLayer
+  - first:
+      74: -874841888572837047
+    second: Cube_Tree_stem.004|Cube_Tree_stem.013|Cube_Tree_stem.003|Cylinder001|Take
+      001|Base
+  - first:
+      74: -127781099734043549
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box001|Take 001|BaseLayer
+  - first:
+      74: 7508834875944268462
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 7185959946443521727
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer
+  - first:
+      74: -6214094028603347938
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 5138415450457048138
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -205637629929839967
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.003
+  - first:
+      74: -4336334834519233790
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -3549045164813719895
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 466850162491505492
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 3575237315266961215
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 8083954404018988602
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -241496879119859668
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -1688162279731141030
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.010
+  - first:
+      74: -5980905217675701931
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 5078079787643399696
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -2089673484849300776
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 6978321517630748018
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.014
+  - first:
+      74: 184871984591376145
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.015
+  - first:
+      74: 2335027757281821078
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.016
+  - first:
+      74: -6527819208528618212
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.017
+  - first:
+      74: -6814706666669047468
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.018
+  - first:
+      74: -8037469317414664851
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -823937093132398922
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.020
+  - first:
+      74: -2120194116181910628
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.021
+  - first:
+      74: 7431082200351868762
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.022
+  - first:
+      74: -9011072513260308154
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 7877910334617130042
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 3674681452801502327
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.025
+  - first:
+      74: -3005645987522102793
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.026
+  - first:
+      74: 3433340881393439789
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -3830468287962355747
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Cylinder001|Take 001|BaseLaye
+  - first:
+      74: 515672262922549661
+    second: Cube_Tree_stem.004|Cube_Tree_stem|Cube_Tree_stem|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 3373265112721888820
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box001|Take 001|BaseLayer
+  - first:
+      74: 3986853986069072166
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 7722903955179091988
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -6874258027344301384
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer
+  - first:
+      74: 4391965144888144707
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 3519865176591845597
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 7348815777761518182
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 1140505873408564067
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.004
+  - first:
+      74: -9077540377901589415
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 2212109198908901195
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -7829919395483019449
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 948242449809076173
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -6096887267695240862
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 4098284292968556555
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 564911488680217470
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 6608243670629141561
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -7113220374691030063
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -1026929636705810104
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.014
+  - first:
+      74: -6389843118825274182
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.015
+  - first:
+      74: 7470164172939453992
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.016
+  - first:
+      74: 8235255431115071466
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.017
+  - first:
+      74: 2327809942650907341
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.018
+  - first:
+      74: 5499180177896344750
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -4193269133740202279
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.020
+  - first:
+      74: 8173042779020054304
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.021
+  - first:
+      74: -4475565840449325742
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.022
+  - first:
+      74: -8345789284210509395
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.023
+  - first:
+      74: -5814959331784795830
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 6752378745301923546
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.025
+  - first:
+      74: -2256532393659669617
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.026
+  - first:
+      74: 2460778732429691683
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.027
+  - first:
+      74: 7524649772767243765
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.028
+  - first:
+      74: -1262262164653810472
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.029
+  - first:
+      74: 559309141532771930
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.030
+  - first:
+      74: 4339313717141755413
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.031
+  - first:
+      74: 7022831486761515383
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 3109008960721247990
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.033
+  - first:
+      74: 9191294304646588746
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.034
+  - first:
+      74: 6146553052905164381
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.035
+  - first:
+      74: 1904406407795639030
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.036
+  - first:
+      74: -8639139500802727605
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.037
+  - first:
+      74: -3431603832998429963
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.038
+  - first:
+      74: -4620510775957327731
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 5985709176582943187
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.040
+  - first:
+      74: 7286974431440560680
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Box002|Take 001|BaseLayer.041
+  - first:
+      74: -3890360831260689801
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 7092627632778477333
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 8386975173579489343
+    second: Cube_Tree_stem.004|Tree_leaf.001|Tree_leaf.001|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 1754980420442149140
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box001|Take 001|BaseLayer
+  - first:
+      74: -3552640423637386937
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 2809282145485442509
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -949333259761579905
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer
+  - first:
+      74: -5472141376531326586
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 5461177706195030839
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.002
+  - first:
+      74: 1137826956805608126
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 4118581163270628390
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 306396752090865042
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.005
+  - first:
+      74: -4159739560525385637
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 6823583115953566040
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 1406380135824916117
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -4484351730485780123
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -8057856428020203795
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 8176532099495229609
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 2623082088724113509
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.012
+  - first:
+      74: 8456563270176472003
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.013
+  - first:
+      74: -3696897916280662493
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.014
+  - first:
+      74: 5563225858013320867
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.015
+  - first:
+      74: -2440076178115881011
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.016
+  - first:
+      74: 8816616706138656638
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.017
+  - first:
+      74: 1846684508608847365
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.018
+  - first:
+      74: -3061895048608226332
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -5286592919785171139
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.020
+  - first:
+      74: 5723749999251076796
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.021
+  - first:
+      74: -4021130869630413435
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.022
+  - first:
+      74: 1571263351145328499
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 8148698040571998245
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 3479510210842147612
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.025
+  - first:
+      74: 6784803403891295728
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.026
+  - first:
+      74: -5421660523691490520
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -4418414455332841241
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.028
+  - first:
+      74: -9145813341630568528
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.029
+  - first:
+      74: 5262588374050926007
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.030
+  - first:
+      74: 8467586714454357937
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.031
+  - first:
+      74: -732205979415737849
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 1071361223956242107
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.033
+  - first:
+      74: 3771869460464114736
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.034
+  - first:
+      74: -2519797160759477247
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.035
+  - first:
+      74: -6142561194909492451
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.036
+  - first:
+      74: 2116258081715279990
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.037
+  - first:
+      74: -8419401867723055669
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.038
+  - first:
+      74: -4792254680290052786
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 1273450935443176894
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.040
+  - first:
+      74: -790096032499098801
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Box002|Take 001|BaseLayer.041
+  - first:
+      74: 8886834806123579207
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -2656796179245744344
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 3317517055897071114
+    second: Cube_Tree_stem.004|Tree_leaf.002|Tree_leaf.002|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 2809077502677928191
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box001|Take 001|BaseLayer
+  - first:
+      74: -5296538684186643048
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 4635670771386558723
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -5037337723855009969
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer
+  - first:
+      74: 8565242990221361291
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 4602743680824630876
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -4504043147517025105
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 4240525034390641958
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 6363748878438600664
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 4205386855574422989
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.006
+  - first:
+      74: -5707932592546030118
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.007
+  - first:
+      74: -4837527744463333425
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.008
+  - first:
+      74: -4982984423561050137
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.009
+  - first:
+      74: 3405885705107194305
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 1966402954526585142
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.011
+  - first:
+      74: 7655841715683010345
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -8250343285052869008
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 1824060868911666853
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.014
+  - first:
+      74: 6320500476385871941
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.015
+  - first:
+      74: -3863789032324860672
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.016
+  - first:
+      74: -6923612722408023877
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.017
+  - first:
+      74: -317244439759265656
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.018
+  - first:
+      74: 4816683650956444950
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.019
+  - first:
+      74: 8613423268939762352
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.020
+  - first:
+      74: -7695609137675330837
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.021
+  - first:
+      74: 3390218349706373464
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.022
+  - first:
+      74: -6814765997331962370
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 1368838568568349110
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 3288288268585457947
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.025
+  - first:
+      74: -8842476685467807713
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.026
+  - first:
+      74: 4649806319099581796
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -7441964301238818429
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.028
+  - first:
+      74: 7588569239608305596
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.029
+  - first:
+      74: 148389875909689849
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.030
+  - first:
+      74: -8820953067355821971
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.031
+  - first:
+      74: 4471791818774465384
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 6248814323318364178
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.033
+  - first:
+      74: 8537107225738107046
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.034
+  - first:
+      74: 6723290881725143247
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.035
+  - first:
+      74: -129255809577387916
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.036
+  - first:
+      74: -9030396227221092141
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.037
+  - first:
+      74: -2230506998761795841
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.038
+  - first:
+      74: 6744458208149221084
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 457988588027348453
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.040
+  - first:
+      74: 5153561202115797196
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Box002|Take 001|BaseLayer.041
+  - first:
+      74: -4616829694303838876
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -6329746270810028267
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: 7370200526564694963
+    second: Cube_Tree_stem.004|Tree_leaf.003|Tree_leaf.003|Cylinder001|Take 001|BaseLayer.002
+  - first:
+      74: 1293523625591275408
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box001|Take 001|BaseLayer
+  - first:
+      74: 7948277062539141278
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box001|Take 001|BaseLayer.001
+  - first:
+      74: 8344064965970960037
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box001|Take 001|BaseLayer.002
+  - first:
+      74: -3978077080092048659
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer
+  - first:
+      74: 1764112861595261521
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.001
+  - first:
+      74: 5343268899752061307
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.002
+  - first:
+      74: -312220187133793906
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.003
+  - first:
+      74: 4917407038595393360
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.004
+  - first:
+      74: 1954671092530057108
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.005
+  - first:
+      74: 6458653267137991367
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.006
+  - first:
+      74: 3795353453781378770
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.007
+  - first:
+      74: 6833505196396287296
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.008
+  - first:
+      74: 7124123440816733502
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.009
+  - first:
+      74: -8239591344028334938
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.010
+  - first:
+      74: 4291681828315435733
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.011
+  - first:
+      74: -6614801063474031032
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.012
+  - first:
+      74: -8891115342134626207
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.013
+  - first:
+      74: 3759475188860107672
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.014
+  - first:
+      74: -3204328669085438413
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.015
+  - first:
+      74: 8192936372110952911
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.016
+  - first:
+      74: 2748169430301718017
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.017
+  - first:
+      74: -8509576681559383009
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.018
+  - first:
+      74: 6734364661074691404
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.019
+  - first:
+      74: -29074281636418989
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.020
+  - first:
+      74: 6888272581188381962
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.021
+  - first:
+      74: 2417211470534513677
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.022
+  - first:
+      74: 3327602243127609052
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.023
+  - first:
+      74: 1744779881658014115
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.024
+  - first:
+      74: 2005199493201481933
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.025
+  - first:
+      74: -2558747968258450185
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.026
+  - first:
+      74: 9147975003547534334
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.027
+  - first:
+      74: -9158785203143980539
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.028
+  - first:
+      74: -3041523412400608033
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.029
+  - first:
+      74: 5908339459639401130
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.030
+  - first:
+      74: -166739315441743540
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.031
+  - first:
+      74: 4339138682295723700
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.032
+  - first:
+      74: 4779403122082723118
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.033
+  - first:
+      74: 7952896448362853056
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.034
+  - first:
+      74: 5260906809329827091
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.035
+  - first:
+      74: -81201346446974514
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.036
+  - first:
+      74: 1881334720075981426
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.037
+  - first:
+      74: -5518634412966363449
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.038
+  - first:
+      74: 207011062298750006
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.039
+  - first:
+      74: 3972938848716902102
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.040
+  - first:
+      74: -5948123458066854754
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Box002|Take 001|BaseLayer.041
+  - first:
+      74: 1146161762631905203
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 8362748795591926403
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Cylinder001|Take 001|BaseLayer.001
+  - first:
+      74: -6858310799155648742
+    second: Cube_Tree_stem.004|Tree_leaf|Tree_leaf|Cylinder001|Take 001|BaseLayer.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
